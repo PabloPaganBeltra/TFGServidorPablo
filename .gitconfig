@@ -1,0 +1,11 @@
+[user]
+	name = PabloPaganBeltra
+	email = 56672765+PabloPaganBeltra@users.noreply.github.com
+[filesystem "Oracle Corporation|1.8.0_221|-1797688346"]
+	timestampResolution = 1001 microseconds
+	minRacyThreshold = 0 nanoseconds
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true

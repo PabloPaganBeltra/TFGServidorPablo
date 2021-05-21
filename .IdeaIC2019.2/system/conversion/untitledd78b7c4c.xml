@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="kotlin-non-jvm-source-roots" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\Pablo PC\IdeaProjects\untitled\.idea\compiler.xml" timestamp="1569856285945" />
+    <file path="C:\Users\Pablo PC\IdeaProjects\untitled\.idea\encodings.xml" timestamp="1569856439837" />
+    <file path="C:\Users\Pablo PC\IdeaProjects\untitled\.idea\gradle.xml" timestamp="1569856290538" />
+    <file path="C:\Users\Pablo PC\IdeaProjects\untitled\.idea\misc.xml" timestamp="1569856439822" />
+    <file path="C:\Users\Pablo PC\IdeaProjects\untitled\.idea\modules.xml" timestamp="1569856439846" />
+    <file path="C:\Users\Pablo PC\IdeaProjects\untitled\.idea\uiDesigner.xml" timestamp="1569856285987" />
+    <file path="C:\Users\Pablo PC\IdeaProjects\untitled\.idea\vcs.xml" timestamp="1569856285998" />
+    <file path="C:\Users\Pablo PC\IdeaProjects\untitled\.idea\workspace.xml" timestamp="1569856631996" />
+    <file path="C:\Users\Pablo PC\IdeaProjects\untitled\untitled.iml" timestamp="1569856286018" />
+  </project-files>
+</conversion>
+

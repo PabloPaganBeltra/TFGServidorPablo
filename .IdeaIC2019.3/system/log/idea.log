@@ -1,0 +1,517 @@
+2020-02-02 21:30:13,852 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2020-02-02 21:30:13,933 [     81]   INFO -        #com.intellij.idea.Main - IDE: IntelliJ IDEA (build #IC-193.6015.39, 21 Jan 2020 07:12) 
+2020-02-02 21:30:13,938 [     86]   INFO -        #com.intellij.idea.Main - OS: Windows 10 (10.0, amd64) 
+2020-02-02 21:30:13,938 [     86]   INFO -        #com.intellij.idea.Main - JRE: 11.0.5+10-b520.30 (JetBrains s.r.o) 
+2020-02-02 21:30:13,938 [     86]   INFO -        #com.intellij.idea.Main - JVM: 11.0.5+10-b520.30 (OpenJDK 64-Bit Server VM) 
+2020-02-02 21:30:13,939 [     87]   INFO -        #com.intellij.idea.Main - JVM Args: exit -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -XX:CICompilerCount=2 -Dsun.io.useCanonPrefixCache=false -Djava.net.preferIPv4Stack=true -Djdk.http.auth.tunneling.disabledSchemes="" -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Djdk.attach.allowAttachSelf=true -Dkotlinx.coroutines.debug=off -Djdk.module.illegalAccess.silent=true -Djb.vmOptionsFile=C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.3.2\bin\idea64.exe.vmoptions -Djava.library.path=C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.3.2\jbr\\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.3.2\jbr\\bin\server -Didea.platform.prefix=Idea -Didea.jre.check=true -Dide.native.launcher=true -Didea.paths.selector=IdeaIC2019.3 -XX:ErrorFile=C:\Users\Pablo PC\java_error_in_idea_%p.log -XX:HeapDumpPath=C:\Users\Pablo PC\java_error_in_idea.hprof 
+2020-02-02 21:30:13,939 [     87]   INFO -        #com.intellij.idea.Main - charsets: JNU=Cp1252 file=Cp1252 
+2020-02-02 21:30:14,057 [    205]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 194 ms 
+2020-02-02 21:30:14,067 [    215]   INFO -        #com.intellij.idea.Main - CPU cores: 4; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@49f2c2be[Running, parallelism = 3, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@1a5dbb38 
+2020-02-02 21:30:18,377 [   4525]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational 
+2020-02-02 21:30:25,704 [  11852]   INFO - llij.ide.plugins.PluginManager - Plugin "Groovy" misses optional descriptor duplicates-groovy.xml 
+2020-02-02 21:30:25,706 [  11854]   INFO - llij.ide.plugins.PluginManager - Plugin "Groovy" misses optional descriptor duplicates-detection-groovy.xml 
+2020-02-02 21:30:26,667 [  12815]   INFO - llij.ide.plugins.PluginManager - Plugin "Java" misses optional descriptor profiler-java.xml 
+2020-02-02 21:30:26,727 [  12875]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: Android Support (10.3.5), Ant (193.6015.39), Bytecode Viewer (193.6015.39), ChangeReminder (193.6015.39), Configuration Script (193.6015.39), Copyright (193.6015.39), Coverage (193.6015.39), Eclipse Interoperability (193.6015.39), EditorConfig (193.6015.39), Git (193.6015.39), GitHub (193.6015.39), Gradle (193.6015.39), Gradle-Java (193.6015.39), Gradle-Maven (193.6015.39), Groovy (193.6015.39), IDEA CORE (193.6015.39), IntelliLang (193.6015.39), JUnit (193.6015.39), Java (193.6015.39), Java Bytecode Decompiler (193.6015.39), Java IDE Customization (193.6015.39), Java Internationalization (193.6015.39), Java Stream Debugger (193.6015.39), JavaFX (193.6015.39), Kotlin (1.3.61-release-IJ2019.3-1), Machine Learning Code Completion (193.6015.39), Markdown (193.6015.39), Maven (193.6015.39), Mercurial (193.6015.39), Plugin DevKit (193.6015.39), Properties (193.6015.39), Settings Repository (193.6015.39), Shell Script (193.6015.39), Smali Support (193.6015.39), Subversion (193.6015.39), Task Management (193.6015.39), Terminal (193.6015.39), TestNG (193.6015.39), TextMate bundles (193.6015.39), UI Designer (193.6015.39), XPathView + XSLT (193.6015.39), XSLT Debugger (193.6015.39), YAML (193.6015.39) 
+2020-02-02 21:30:30,491 [  16639]   INFO - fs.newvfs.persistent.FSRecords - Marking VFS as corrupted: 'C:\Users\Pablo PC\.IdeaIC2019.3\system\caches\names.dat' does not exist 
+2020-02-02 21:30:30,496 [  16644]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=705 
+2020-02-02 21:30:30,563 [  16711]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2020-02-02 21:30:30,641 [  16789]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2020-02-02 21:30:30,642 [  16790]   INFO - .history.utils.LocalHistoryLog - local history version mismatch (was: 0, expected: 6), rebuilding... 
+2020-02-02 21:30:30,642 [  16790]   INFO - .history.utils.LocalHistoryLog - FS has been rebuild, rebuilding local history... 
+2020-02-02 21:30:30,710 [  16858]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=13, fontScale=1.0; restored: fontSize=13, fontScale=1.0 
+2020-02-02 21:30:30,717 [  16865]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.3.2\bin\fsnotifier64.exe 
+2020-02-02 21:30:30,794 [  16942]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2020-02-02 21:30:30,807 [  16955]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2020-02-02 21:30:32,751 [  18899]   INFO - ij.psi.stubs.StubUpdatingIndex - Following new file types will be indexed:KJSM,kotlin_builtins,XML,Groovy,DGM,Markdown,KNM,CLASS,Properties,Kotlin,HTML,JAVA 
+2020-02-02 21:30:33,361 [  19509]   INFO - lij.impl.ConversionServiceImpl - conversion will be performed because at least C:\Users\Pablo PC\IdeaProjects\untitled\.idea\compiler.xml is changed (oldLastModified=-1, newLastModified=1569856285945 
+2020-02-02 21:30:33,444 [  19592]   INFO - il.indexing.FileBasedIndexImpl - Indices to be built:FrameworkDetectionIndex,TodoIndex,IdIndex,FilenameIndex,filetypes,Stubs,Trigram.Index,fileIncludes,DomFileIndex,RelaxSymbolIndex,XmlTagNames,XmlNamespaces,html5.custom.attributes.index,SchemaTypeInheritance,json.file.root.values,ImageFileInfoIndex,bytecodeAnalysis,java.auto.module.name,java.source.module.name,java.null.method.argument,java.simple.property,java.fun.expression,java.binary.plus.expression,RefQueueIndex,xmlProperties,ant-imports,XsltSymbolIndex,GroovyDslFileIndex,groovy.trait.fields,groovy.trait.methods,FormClassIndex,IdeaPluginRegistrationIndex,PluginIdModuleIndex,PluginIdDependenciesIndex,devkit.ExtensionPointIndex,editorconfig.index.name,org.jetbrains.kotlin.idea.versions.KotlinJvmMetadataVersionIndex,org.jetbrains.kotlin.idea.versions.KotlinJsMetadataVersionIndex,org.jetbrains.kotlin.idea.vfilefinder.KotlinClassFileIndex,org.jetbrains.kotlin.idea.vfilefinder.KotlinJavaScriptMetaFileIndex,org.jetbrains.kotlin.idea.vfilefinder.KotlinMetadataFileIndex,org.jetbrains.kotlin.idea.vfilefinder.KotlinMetadataFilePackageIndex,org.jetbrains.kotlin.idea.vfilefinder.KotlinModuleMappingIndex,org.jetbrains.kotlin.idea.vfilefinder.KotlinPackageSourcesMemberNamesIndex,org.jetbrains.kotlin.idea.vfilefinder.KotlinJvmModuleAnnotationsIndex,org.jetbrains.kotlin.ide.konan.index.KotlinNativeMetaFileIndex,DataBindingXmlIndex,JavaFxControllerClassIndex,javafx.id.name,javafx.custom.component,yaml.keys.name 
+2020-02-02 21:30:33,458 [  19606]   INFO - pl$FileIndexDataInitialization - Initialization done: 2697 
+2020-02-02 21:30:34,070 [  20218]   INFO - rojectCodeStyleSettingsManager - Initialized from default code style settings. 
+2020-02-02 21:30:34,134 [  20282]   INFO - pl.projectlevelman.NewMappings - VCS Root: [] - [<Project>] 
+2020-02-02 21:30:34,579 [  20727]   INFO - CompilerWorkspaceConfiguration - Available processors: 4 
+2020-02-02 21:30:35,351 [  21499]   INFO - tellij.psi.stubs.StubIndexImpl - Following stub indices will be built:dom.namespaceKey,dom.elementClass,java.annotations,java.class.extlist,java.field.name,java.method.name,jvm.static.member.name,jvm.static.member.type,java.anonymous.baseref,java.method.parameter.types,java.class.shortname,java.class.fqn,java.module.name,properties.index,gr.class.fqn,gr.script.fqn,gr.field.name,gr.method.name,gr.annot.method.name,gr.annot.members,gr.script.class,gr.class.super,gr.anonymous.class,markdown.header,org.jetbrains.kotlin.idea.stubindex.KotlinExactPackagesIndex,org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelClassByPackageIndex,org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelFunctionByPackageIndex,org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelPropertyByPackageIndex,org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelTypeAliasByPackageIndex,org.jetbrains.kotlin.idea.stubindex.KotlinClassShortNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinFullClassNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinPropertyShortNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinFunctionShortNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinTypeAliasShortNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinSuperClassIndex,org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelFunctionFqnNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelPropertyFqnNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelTypeAliasFqNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinTopLevelExtensionsByReceiverTypeIndex,org.jetbrains.kotlin.idea.stubindex.KotlinAnnotationsIndex,org.jetbrains.kotlin.idea.stubindex.KotlinProbablyNothingFunctionShortNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinProbablyNothingPropertyShortNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinProbablyContractedFunctionShortNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeFqNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinFilePartClassIndex,org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeClassByPackageIndex,org.jetbrains.kotlin.idea.stubindex.KotlinFileFacadeShortNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinMultifileClassPartIndex,org.jetbrains.kotlin.idea.stubindex.KotlinScriptFqnIndex,org.jetbrains.kotlin.idea.stubindex.KotlinTypeAliasByExpansionShortNameIndex,org.jetbrains.kotlin.idea.stubindex.KotlinOverridableInternalMembersShortNameIndex 
+2020-02-02 21:30:35,351 [  21499]   INFO - exImpl$StubIndexInitialization - Initialization done: 1893 
+2020-02-02 21:30:35,524 [  21672]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2020-02-02 21:30:36,467 [  22615]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 75ms; general responsiveness: ok; EDT responsiveness: ok 
+2020-02-02 21:30:37,109 [  23257]   WARN - com.intellij.util.xmlb.Binding - no accessors for class org.jetbrains.kotlin.idea.highlighter.KotlinDefaultHighlightingSettingsProvider 
+2020-02-02 21:30:39,148 [  25296]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 3100ms; general responsiveness: ok; EDT responsiveness: 1/4 sluggish, 1/4 very slow 
+2020-02-02 21:30:39,345 [  25493]   INFO - tartup.impl.StartupManagerImpl - C:/Users/Pablo PC/IdeaProjects/untitled/.idea case-sensitivity: expected=false actual=false 
+2020-02-02 21:30:39,436 [  25584]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 5841 ms 
+2020-02-02 21:30:42,298 [  28446]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 5825ms; general responsiveness: ok; EDT responsiveness: 1/5 sluggish 
+2020-02-02 21:30:42,310 [  28458]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 42742 files to update 
+2020-02-02 21:30:45,713 [  31861]   INFO - ge.ExternalProjectsDataStorage - Load external projects data in 4 millis (read time: 1) 
+2020-02-02 21:31:00,931 [  47079]   INFO - .diagnostic.PerformanceWatcher - Unindexed files update took 18621ms; general responsiveness: ok; EDT responsiveness: ok 
+2020-02-02 21:33:36,802 [ 202950]   WARN - name.RenamePsiElementProcessor - org.jetbrains.kotlin.idea.refactoring.rename.RenameKotlinClassifierProcessor overrides deprecated findReferences(..).
+Override findReferences(PsiElement, SearchScope, boolean) instead. 
+2020-02-02 21:33:36,804 [ 202952]   WARN - name.RenamePsiElementProcessor - org.jetbrains.kotlin.idea.refactoring.rename.RenameKotlinFunctionProcessor overrides deprecated findReferences(..).
+Override findReferences(PsiElement, SearchScope, boolean) instead. 
+2020-02-02 21:33:36,806 [ 202954]   WARN - name.RenamePsiElementProcessor - org.jetbrains.kotlin.idea.refactoring.rename.RenameKotlinPropertyProcessor overrides deprecated findReferences(..).
+Override findReferences(PsiElement, SearchScope, boolean) instead. 
+2020-02-02 21:33:36,806 [ 202954]   WARN - name.RenamePsiElementProcessor - org.jetbrains.kotlin.idea.refactoring.rename.RenameKotlinParameterProcessor overrides deprecated findReferences(..).
+Override findReferences(PsiElement, SearchScope, boolean) instead. 
+2020-02-02 21:33:36,808 [ 202956]   WARN - name.RenamePsiElementProcessor - org.jetbrains.kotlin.idea.refactoring.rename.RenameKotlinFileProcessor overrides deprecated findReferences(..).
+Override findReferences(PsiElement, SearchScope, boolean) instead. 
+2020-02-02 21:33:36,815 [ 202963]   WARN - name.RenamePsiElementProcessor - org.jetbrains.kotlin.idea.refactoring.rename.RenameKotlinTypeParameterProcessor overrides deprecated findReferences(..).
+Override findReferences(PsiElement, SearchScope, boolean) instead. 
+2020-02-02 21:41:24,261 [ 670409]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 21:41:24,768 [ 670916]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 21:41:24,819 [ 670967]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 21:41:24,819 [ 670967]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 21:41:24,819 [ 670967]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 21:41:27,506 [ 673654]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 3252 ms: 0 min 3sec 
+2020-02-02 21:41:27,534 [ 673682]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 21:41:27,874 [ 674022]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 21:41:27,928 [ 674076]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 21:41:27,928 [ 674076]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 21:41:27,929 [ 674077]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 21:43:52,814 [ 818962]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 21:43:52,815 [ 818963]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 21:43:54,122 [ 820270]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 1313 ms: 0 min 1sec 
+2020-02-02 21:43:54,131 [ 820279]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 21:43:54,433 [ 820581]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 21:43:54,482 [ 820630]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 21:43:54,482 [ 820630]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 21:43:54,482 [ 820630]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 21:44:47,021 [ 873169]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 21:44:47,022 [ 873170]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 21:44:47,806 [ 873954]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 791 ms: 0 min 0sec 
+2020-02-02 21:44:47,810 [ 873958]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 21:44:48,111 [ 874259]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 21:44:48,165 [ 874313]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 21:44:48,165 [ 874313]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 21:44:48,165 [ 874313]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 21:47:42,355 [1048503]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 21:47:42,356 [1048504]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 21:47:43,147 [1049295]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 797 ms: 0 min 0sec 
+2020-02-02 21:47:43,155 [1049303]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 21:47:43,458 [1049606]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 21:47:43,509 [1049657]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 21:47:43,509 [1049657]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 21:47:43,509 [1049657]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 21:48:17,281 [1083429]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 21:48:17,282 [1083430]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 21:48:18,572 [1084720]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 1296 ms: 0 min 1sec 
+2020-02-02 21:48:18,578 [1084726]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 21:48:18,871 [1085019]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 21:48:18,923 [1085071]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 21:48:18,923 [1085071]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 21:48:18,923 [1085071]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 21:51:36,677 [1282825]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 21:51:36,677 [1282825]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 21:51:37,512 [1283660]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 840 ms: 0 min 0sec 
+2020-02-02 21:51:37,517 [1283665]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 21:51:37,815 [1283963]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 21:51:37,867 [1284015]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 21:51:37,867 [1284015]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 21:51:37,868 [1284016]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 21:52:44,570 [1350718]   INFO - .script.IdeScriptEngineManager - javax.script.ScriptEngineManager initialized in 182 ms 
+2020-02-02 21:52:45,675 [1351823]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 21:52:45,676 [1351824]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 21:52:46,462 [1352610]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 792 ms: 0 min 0sec 
+2020-02-02 21:52:46,467 [1352615]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 21:52:46,768 [1352916]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 21:52:46,816 [1352964]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 21:52:46,816 [1352964]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 21:52:46,816 [1352964]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 21:53:06,413 [1372561]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 21:53:06,414 [1372562]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 21:53:07,223 [1373371]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 814 ms: 0 min 0sec 
+2020-02-02 21:53:07,228 [1373376]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 21:53:07,523 [1373671]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 21:53:07,568 [1373716]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 21:53:07,568 [1373716]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 21:53:07,569 [1373717]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 21:53:20,448 [1386596]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 21:53:20,449 [1386597]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 21:53:21,157 [1387305]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 714 ms: 0 min 0sec 
+2020-02-02 21:53:21,163 [1387311]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 21:53:21,461 [1387609]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 21:53:21,507 [1387655]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 21:53:21,507 [1387655]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 21:53:21,507 [1387655]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 21:53:36,727 [1402875]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 21:53:36,727 [1402875]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 21:53:37,607 [1403755]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 885 ms: 0 min 0sec 
+2020-02-02 21:53:37,612 [1403760]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 21:53:37,912 [1404060]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 21:53:37,965 [1404113]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 21:53:37,965 [1404113]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 21:53:37,965 [1404113]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 21:53:52,289 [1418437]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 21:53:52,290 [1418438]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 21:53:53,188 [1419336]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 903 ms: 0 min 0sec 
+2020-02-02 21:53:53,196 [1419344]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 21:53:53,492 [1419640]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 21:53:53,538 [1419686]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 21:53:53,538 [1419686]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 21:53:53,538 [1419686]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 21:55:23,570 [1509718]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 21:55:23,570 [1509718]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 21:55:24,364 [1510512]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 799 ms: 0 min 0sec 
+2020-02-02 21:55:24,369 [1510517]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 21:55:24,657 [1510805]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 21:55:24,705 [1510853]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 21:55:24,705 [1510853]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 21:55:24,705 [1510853]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 22:03:31,601 [1997749]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 22:03:31,602 [1997750]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 22:03:32,417 [1998565]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 820 ms: 0 min 0sec 
+2020-02-02 22:03:32,422 [1998570]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 22:03:32,718 [1998866]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 22:03:32,771 [1998919]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 22:03:32,771 [1998919]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 22:03:32,771 [1998919]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 22:06:49,320 [2195468]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 22:06:49,321 [2195469]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 22:06:50,162 [2196310]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 847 ms: 0 min 0sec 
+2020-02-02 22:06:50,167 [2196315]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 22:06:50,501 [2196649]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 22:06:50,555 [2196703]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 22:06:50,555 [2196703]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 22:06:50,555 [2196703]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 22:07:29,841 [2235989]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 22:07:29,843 [2235991]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 22:07:30,676 [2236824]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 840 ms: 0 min 0sec 
+2020-02-02 22:07:30,682 [2236830]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 22:07:30,994 [2237142]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 22:07:31,048 [2237196]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 22:07:31,049 [2237197]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 22:07:31,049 [2237197]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 22:08:19,587 [2285735]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 22:08:19,587 [2285735]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 22:08:20,402 [2286550]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 819 ms: 0 min 0sec 
+2020-02-02 22:08:20,408 [2286556]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 22:08:20,717 [2286865]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 22:08:20,770 [2286918]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 22:08:20,771 [2286919]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 22:08:20,771 [2286919]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 22:08:52,475 [2318623]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 22:08:52,476 [2318624]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 22:08:53,293 [2319441]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 822 ms: 0 min 0sec 
+2020-02-02 22:08:53,298 [2319446]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 22:08:53,619 [2319767]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 22:08:53,670 [2319818]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 22:08:53,670 [2319818]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 22:08:53,670 [2319818]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 22:11:02,774 [2448922]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 22:11:02,775 [2448923]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 22:11:03,617 [2449765]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 848 ms: 0 min 0sec 
+2020-02-02 22:11:03,622 [2449770]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 22:11:03,927 [2450075]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 22:11:03,984 [2450132]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 22:11:03,984 [2450132]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 22:11:03,984 [2450132]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 22:14:04,494 [2630642]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 22:14:04,495 [2630643]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 22:14:05,573 [2631721]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 1083 ms: 0 min 1sec 
+2020-02-02 22:14:05,578 [2631726]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 22:14:05,857 [2632005]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 22:14:05,906 [2632054]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 22:14:05,907 [2632055]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 22:14:05,907 [2632055]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 22:14:40,606 [2666754]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 22:14:40,607 [2666755]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 22:14:41,374 [2667522]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 773 ms: 0 min 0sec 
+2020-02-02 22:14:41,379 [2667527]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 22:14:41,675 [2667823]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 22:14:41,723 [2667871]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 22:14:41,723 [2667871]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 22:14:41,723 [2667871]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 22:15:59,288 [2745436]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 22:15:59,288 [2745436]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 22:16:00,262 [2746410]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 978 ms: 0 min 0sec 
+2020-02-02 22:16:00,267 [2746415]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 22:16:00,617 [2746765]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 22:16:00,668 [2746816]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 22:16:00,668 [2746816]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 22:16:00,668 [2746816]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 22:16:44,123 [2790271]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 22:16:44,124 [2790272]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 22:16:44,925 [2791073]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 806 ms: 0 min 0sec 
+2020-02-02 22:16:44,931 [2791079]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 22:16:45,227 [2791375]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 22:16:45,273 [2791421]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 22:16:45,273 [2791421]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 22:16:45,273 [2791421]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 22:17:00,335 [2806483]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 22:17:00,336 [2806484]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 22:17:01,658 [2807806]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 1328 ms: 0 min 1sec 
+2020-02-02 22:17:01,664 [2807812]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 22:17:01,975 [2808123]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 22:17:02,027 [2808175]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 22:17:02,028 [2808176]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 22:17:02,028 [2808176]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 22:18:39,412 [2905560]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 22:18:39,413 [2905561]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 22:18:40,251 [2906399]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 844 ms: 0 min 0sec 
+2020-02-02 22:18:40,256 [2906404]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 22:18:40,575 [2906723]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 22:18:40,628 [2906776]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 22:18:40,628 [2906776]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 22:18:40,628 [2906776]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 22:18:51,799 [2917947]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 22:18:51,800 [2917948]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 22:18:52,628 [2918776]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 834 ms: 0 min 0sec 
+2020-02-02 22:18:52,634 [2918782]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 22:18:52,939 [2919087]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 22:18:52,990 [2919138]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 22:18:52,990 [2919138]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 22:18:52,990 [2919138]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 22:19:26,858 [2953006]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 22:19:26,859 [2953007]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 22:19:27,665 [2953813]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 811 ms: 0 min 0sec 
+2020-02-02 22:19:27,671 [2953819]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 22:19:27,962 [2954110]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 22:19:28,021 [2954169]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 22:19:28,022 [2954170]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 22:19:28,022 [2954170]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 22:22:49,027 [3155175]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 22:22:49,027 [3155175]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 22:22:50,304 [3156452]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 1282 ms: 0 min 1sec 
+2020-02-02 22:22:50,310 [3156458]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 22:22:50,598 [3156746]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 22:22:50,644 [3156792]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 22:22:50,644 [3156792]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 22:22:50,644 [3156792]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 22:23:32,016 [3198164]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 22:23:32,017 [3198165]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 22:23:33,262 [3199410]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 1250 ms: 0 min 1sec 
+2020-02-02 22:23:33,267 [3199415]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 22:23:33,540 [3199688]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 22:23:33,593 [3199741]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 22:23:33,593 [3199741]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 22:23:33,593 [3199741]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 22:23:57,800 [3223948]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 22:23:57,800 [3223948]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 22:23:58,543 [3224691]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 747 ms: 0 min 0sec 
+2020-02-02 22:23:58,548 [3224696]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 22:23:58,825 [3224973]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 22:23:58,879 [3225027]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 22:23:58,879 [3225027]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 22:23:58,880 [3225028]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 22:24:27,032 [3253180]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 22:24:27,033 [3253181]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 22:24:27,886 [3254034]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 859 ms: 0 min 0sec 
+2020-02-02 22:24:27,893 [3254041]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 22:24:28,192 [3254340]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 22:24:28,255 [3254403]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 22:24:28,255 [3254403]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 22:24:28,255 [3254403]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 22:25:04,955 [3291103]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 22:25:04,956 [3291104]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 22:25:05,762 [3291910]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 811 ms: 0 min 0sec 
+2020-02-02 22:25:05,769 [3291917]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 22:25:06,073 [3292221]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 22:25:06,123 [3292271]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 22:25:06,124 [3292272]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 22:25:06,124 [3292272]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 22:26:18,675 [3364823]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 22:26:18,675 [3364823]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 22:26:19,531 [3365679]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 861 ms: 0 min 0sec 
+2020-02-02 22:26:19,537 [3365685]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 22:26:19,889 [3366037]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 22:26:19,945 [3366093]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 22:26:19,945 [3366093]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 22:26:19,945 [3366093]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 22:30:43,022 [3629170]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 22:30:43,022 [3629170]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 22:30:44,115 [3630263]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 1097 ms: 0 min 1sec 
+2020-02-02 22:30:44,121 [3630269]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 22:30:44,399 [3630547]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 22:30:44,449 [3630597]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 22:30:44,449 [3630597]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 22:30:44,449 [3630597]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 22:31:10,820 [3656968]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 22:31:10,821 [3656969]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 22:31:11,560 [3657708]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 744 ms: 0 min 0sec 
+2020-02-02 22:31:11,565 [3657713]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 22:31:11,867 [3658015]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 22:31:11,917 [3658065]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 22:31:11,917 [3658065]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 22:31:11,917 [3658065]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 22:34:09,516 [3835664]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 22:34:09,518 [3835666]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 22:34:10,881 [3837029]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 1369 ms: 0 min 1sec 
+2020-02-02 22:34:10,886 [3837034]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 22:34:11,194 [3837342]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 22:34:11,248 [3837396]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 22:34:11,248 [3837396]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 22:34:11,248 [3837396]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 22:34:36,555 [3862703]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 22:34:36,556 [3862704]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 22:34:37,379 [3863527]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 829 ms: 0 min 0sec 
+2020-02-02 22:34:37,388 [3863536]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 22:34:37,707 [3863855]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 22:34:37,757 [3863905]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 22:34:37,757 [3863905]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 22:34:37,757 [3863905]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 22:36:36,869 [3983017]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 22:36:36,870 [3983018]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 22:36:37,786 [3983934]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 921 ms: 0 min 0sec 
+2020-02-02 22:36:37,791 [3983939]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 22:36:39,650 [3985798]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 22:36:39,704 [3985852]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 22:36:39,704 [3985852]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 22:36:39,704 [3985852]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 22:36:43,811 [3989959]   INFO - ach.JavaAttachDebuggerProvider - Timeout while getting attach info 
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.FutureTask.get(FutureTask.java:204)
+	at com.intellij.debugger.impl.attach.JavaAttachDebuggerProvider.getProcessAttachInfo(JavaAttachDebuggerProvider.java:213)
+	at com.intellij.debugger.impl.attach.JavaAttachDebuggerProvider.getAttachInfo(JavaAttachDebuggerProvider.java:173)
+	at com.intellij.debugger.impl.attach.JavaAttachDebuggerProvider.getProcessAttachInfo(JavaAttachDebuggerProvider.java:227)
+	at com.intellij.debugger.impl.attach.JavaDebuggerAttachUtil.canAttach(JavaDebuggerAttachUtil.java:21)
+	at com.intellij.execution.impl.DefaultJavaProgramRunner$AttachDebuggerAction$1.lambda$startNotified$0(DefaultJavaProgramRunner.java:289)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at com.intellij.util.concurrency.SchedulingWrapper$MyScheduledFutureTask.run(SchedulingWrapper.java:217)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:834)
+2020-02-02 22:37:44,325 [4050473]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 22:37:44,326 [4050474]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 22:37:45,181 [4051329]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 860 ms: 0 min 0sec 
+2020-02-02 22:37:45,186 [4051334]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 22:37:45,489 [4051637]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 22:37:45,549 [4051697]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 22:37:45,549 [4051697]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 22:37:45,549 [4051697]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 22:38:11,400 [4077548]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 22:38:11,400 [4077548]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 22:38:12,223 [4078371]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 827 ms: 0 min 0sec 
+2020-02-02 22:38:12,228 [4078376]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 22:38:12,547 [4078695]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 22:38:12,602 [4078750]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 22:38:12,602 [4078750]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 22:38:12,602 [4078750]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 22:38:13,280 [4079428]   INFO - rationStore.ComponentStoreImpl - Saving Project (name=untitled, containerState=ACTIVE, componentStore=C:\Users\Pablo PC\IdeaProjects\untitled) CompilerConfiguration took 12 ms 
+2020-02-02 22:38:32,405 [4098553]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 22:38:32,406 [4098554]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 22:38:33,269 [4099417]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 868 ms: 0 min 0sec 
+2020-02-02 22:38:33,273 [4099421]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 22:38:33,592 [4099740]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 22:38:33,647 [4099795]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 22:38:33,647 [4099795]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 22:38:33,647 [4099795]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 22:40:19,386 [4205534]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 22:40:19,387 [4205535]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 22:40:20,192 [4206340]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 809 ms: 0 min 0sec 
+2020-02-02 22:40:20,196 [4206344]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 22:40:20,476 [4206624]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 22:40:20,525 [4206673]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 22:40:20,525 [4206673]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 22:40:20,525 [4206673]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 22:40:33,631 [4219779]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 22:40:33,632 [4219780]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 22:40:34,418 [4220566]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 791 ms: 0 min 0sec 
+2020-02-02 22:40:34,424 [4220572]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 22:40:34,714 [4220862]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 22:40:34,768 [4220916]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 22:40:34,768 [4220916]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 22:40:34,768 [4220916]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 22:41:24,194 [4270342]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 22:41:24,195 [4270343]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 22:41:24,971 [4271119]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 780 ms: 0 min 0sec 
+2020-02-02 22:41:24,976 [4271124]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 22:41:25,278 [4271426]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 22:41:25,330 [4271478]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 22:41:25,331 [4271479]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 22:41:25,331 [4271479]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 22:42:06,889 [4313037]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 22:42:06,889 [4313037]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 22:42:07,651 [4313799]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 765 ms: 0 min 0sec 
+2020-02-02 22:42:07,655 [4313803]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 22:42:07,937 [4314085]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 22:42:07,989 [4314137]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 22:42:07,990 [4314138]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 22:42:07,990 [4314138]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 22:46:15,105 [4561253]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 22:46:15,107 [4561255]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 22:46:15,987 [4562135]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 887 ms: 0 min 0sec 
+2020-02-02 22:46:15,994 [4562142]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 22:46:16,293 [4562441]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 22:46:16,345 [4562493]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 22:46:16,345 [4562493]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 22:46:16,345 [4562493]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 22:46:25,139 [4571287]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 22:46:25,139 [4571287]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 22:46:26,040 [4572188]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 905 ms: 0 min 0sec 
+2020-02-02 22:46:26,046 [4572194]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 22:46:26,354 [4572502]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 22:46:26,408 [4572556]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 22:46:26,408 [4572556]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 22:46:26,408 [4572556]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 22:46:47,176 [4593324]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 22:46:47,176 [4593324]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 22:46:48,033 [4594181]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 861 ms: 0 min 0sec 
+2020-02-02 22:46:48,038 [4594186]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 22:46:48,341 [4594489]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 22:46:48,390 [4594538]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 22:46:48,390 [4594538]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 22:46:48,390 [4594538]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 22:46:56,048 [4602196]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 22:46:56,049 [4602197]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 22:46:56,809 [4602957]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 766 ms: 0 min 0sec 
+2020-02-02 22:46:56,815 [4602963]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 22:46:57,110 [4603258]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 22:46:57,164 [4603312]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 22:46:57,164 [4603312]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 22:46:57,164 [4603312]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 22:47:08,399 [4614547]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 22:47:08,400 [4614548]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 22:47:09,241 [4615389]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 845 ms: 0 min 0sec 
+2020-02-02 22:47:09,247 [4615395]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 22:47:09,553 [4615701]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 22:47:09,603 [4615751]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 22:47:09,603 [4615751]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 22:47:09,603 [4615751]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 22:48:33,433 [4699581]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 22:48:33,434 [4699582]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 22:48:34,293 [4700441]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 864 ms: 0 min 0sec 
+2020-02-02 22:48:34,297 [4700445]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 22:48:34,607 [4700755]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 22:48:34,664 [4700812]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 22:48:34,664 [4700812]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 22:48:34,664 [4700812]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 22:48:42,576 [4708724]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 22:48:42,576 [4708724]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 22:48:43,417 [4709565]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 845 ms: 0 min 0sec 
+2020-02-02 22:48:43,421 [4709569]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 22:48:43,746 [4709894]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 22:48:43,796 [4709944]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 22:48:43,796 [4709944]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 22:48:43,796 [4709944]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 22:48:49,261 [4715409]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 22:48:49,261 [4715409]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 22:48:50,099 [4716247]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 843 ms: 0 min 0sec 
+2020-02-02 22:48:50,104 [4716252]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 22:48:50,404 [4716552]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 22:48:50,460 [4716608]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 22:48:50,460 [4716608]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 22:48:50,460 [4716608]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 22:48:56,201 [4722349]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 22:48:56,201 [4722349]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 22:48:57,034 [4723182]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 837 ms: 0 min 0sec 
+2020-02-02 22:48:57,039 [4723187]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 22:48:57,346 [4723494]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 22:48:57,397 [4723545]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 22:48:57,397 [4723545]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 22:48:57,397 [4723545]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 22:49:02,191 [4728339]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2020-02-02 22:49:02,192 [4728340]   INFO - j.compiler.server.BuildManager - Using preloaded build process to compile C:\Users\Pablo PC\IdeaProjects\untitled 
+2020-02-02 22:49:03,037 [4729185]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 850 ms: 0 min 0sec 
+2020-02-02 22:49:03,042 [4729190]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2020-02-02 22:49:03,342 [4729490]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: C:/Program Files/JetBrains/IntelliJ IDEA Community Edition 2019.3.2/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2020-02-02 22:49:03,394 [4729542]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2020-02-02 22:49:03,395 [4729543]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2020-02-02 22:49:03,395 [4729543]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2020-02-02 22:50:22,835 [4808983]   INFO - Types.impl.FileTypeManagerImpl - 321 auto-detected files. Detection took 114 ms 
+2020-02-02 22:50:22,838 [4808986]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2020-02-02 22:50:22,838 [4808986]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2020-02-02 22:50:22,849 [4808997]   INFO - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 
+2020-02-02 22:50:22,850 [4808998]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2020-02-02 22:50:23,310 [4809458]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2020-02-02 22:50:23,310 [4809458]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2020-02-02 22:50:23,344 [4809492]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2020-02-02 22:50:23,440 [4809588]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2020-02-02 22:50:23,461 [4809609]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2020-02-02 22:50:23,463 [4809611]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 

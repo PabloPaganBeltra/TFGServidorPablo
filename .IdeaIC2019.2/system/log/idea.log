@@ -1,0 +1,135 @@
+2019-09-30 17:09:14,874 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2019-09-30 17:09:14,891 [     17]   INFO -        #com.intellij.idea.Main - IDE: IntelliJ IDEA (build #IC-192.6817.14, 24 Sep 2019 06:39) 
+2019-09-30 17:09:14,893 [     19]   INFO -        #com.intellij.idea.Main - OS: Windows 10 (10.0, amd64) 
+2019-09-30 17:09:14,893 [     19]   INFO -        #com.intellij.idea.Main - JRE: 11.0.4+10-b304.69 (JetBrains s.r.o) 
+2019-09-30 17:09:14,893 [     19]   INFO -        #com.intellij.idea.Main - JVM: 11.0.4+10-b304.69 (OpenJDK 64-Bit Server VM) 
+2019-09-30 17:09:14,894 [     20]   INFO -        #com.intellij.idea.Main - JVM Args: exit -Xms128m -Xmx750m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -XX:CICompilerCount=2 -Dsun.io.useCanonPrefixCache=false -Djava.net.preferIPv4Stack=true -Djdk.http.auth.tunneling.disabledSchemes="" -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Djdk.attach.allowAttachSelf -Dkotlinx.coroutines.debug=off -Djdk.module.illegalAccess.silent=true -Djb.vmOptionsFile=E:\IntelliJ IDEA Community Edition 2019.2.3\bin\idea64.exe.vmoptions -Djava.library.path=E:\IntelliJ IDEA Community Edition 2019.2.3\jbr\\bin;E:\IntelliJ IDEA Community Edition 2019.2.3\jbr\\bin\server -Didea.platform.prefix=Idea -Didea.jre.check=true -Dide.native.launcher=true -Didea.paths.selector=IdeaIC2019.2 -XX:ErrorFile=C:\Users\Pablo PC\java_error_in_idea_%p.log -XX:HeapDumpPath=C:\Users\Pablo PC\java_error_in_idea.hprof 
+2019-09-30 17:09:14,895 [     21]   INFO -        #com.intellij.idea.Main - charsets: JNU=Cp1252 file=Cp1252 
+2019-09-30 17:09:14,917 [     43]   INFO - plication.impl.ApplicationImpl - CPU cores: 4; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@7701b834[Running, parallelism = 3, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@4d1c3a93 
+2019-09-30 17:09:14,941 [     67]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 54 ms 
+2019-09-30 17:09:14,963 [     89]   INFO - penapi.util.io.win32.IdeaWin32 - Native filesystem for Windows is operational 
+2019-09-30 17:09:34,574 [  19700]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor duplicates-groovy.xml 
+2019-09-30 17:09:34,578 [  19704]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor duplicates-detection-groovy.xml 
+2019-09-30 17:09:34,776 [  19902]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor profiler-java.xml 
+2019-09-30 17:09:34,993 [  20119]   INFO - .intellij.util.io.HttpRequests - Application is not initialized yet; Using default SSL configuration to connect to https://plugins.jetbrains.com/plugins/list/?uuid=4fdf2c24-e3cc-4428-80b9-a388b1ff8cff&build=IC-192.6817.14 
+2019-09-30 17:09:38,621 [  23747]   INFO - tellij.diagnostic.LoadingPhase - Reached SPLASH loading phase 
+2019-09-30 17:09:38,836 [  23962]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor duplicates-groovy.xml 
+2019-09-30 17:09:38,840 [  23966]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor duplicates-detection-groovy.xml 
+2019-09-30 17:09:39,053 [  24179]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor profiler-java.xml 
+2019-09-30 17:09:39,239 [  24365]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: Android Support (10.3.4), Ant (192.6817.14), Bytecode Viewer (192.6817.14), ChangeReminder (192.6817.14), Configuration Script (192.6817.14), Copyright (192.6817.14), Coverage (192.6817.14), Eclipse Interoperability (192.6817.14), EditorConfig (192.6817.14), Git (192.6817.14), GitHub (192.6817.14), Gradle (192.6817.14), Gradle-Maven (192.6817.14), Groovy (192.6817.14), IDEA CORE (192.6817.14), IntelliLang (192.6817.14), JUnit (192.6817.14), Java (192.6817.14), Java Bytecode Decompiler (192.6817.14), Java IDE Customization (192.6817.14), Java Internationalization (192.6817.14), Java Stream Debugger (192.6817.14), JavaFX (192.6817.14), Kotlin (1.3.41-release-IJ2019.2-1), Machine Learning Code Completion (192.6817.14), Markdown (192.6817.14), Maven (192.6817.14), Mercurial (192.6817.14), Plugin DevKit (192.6817.14), Properties (192.6817.14), Settings Repository (192.6817.14), Shell Script (192.6817.14), Smali Support (192.6817.14), Subversion (192.6817.14), Task Management (192.6817.14), Terminal (192.6817.14), TestNG (192.6817.14), TextMate bundles (192.6817.14), UI Designer (192.6817.14), XPathView + XSLT (192.6817.14), XSLT Debugger (192.6817.14), YAML (192.6817.14) 
+2019-09-30 17:09:42,438 [  27564]   INFO - tellij.diagnostic.LoadingPhase - Reached CONFIGURATION_STORE_INITIALIZED loading phase 
+2019-09-30 17:09:42,487 [  27613]   INFO - ellij.vfs.persistent.FSRecords - Marking VFS as corrupted: 'C:\Users\Pablo PC\.IdeaIC2019.2\system\caches\names.dat' does not exist 
+2019-09-30 17:09:42,489 [  27615]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=500; buffer=10; max=705 
+2019-09-30 17:09:42,535 [  27661]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: E:\IntelliJ IDEA Community Edition 2019.2.3\bin\fsnotifier64.exe 
+2019-09-30 17:09:42,593 [  27719]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2019-09-30 17:09:44,718 [  29844]   INFO - .history.utils.LocalHistoryLog - local history version mismatch (was: 0, expected: 6), rebuilding... 
+2019-09-30 17:09:44,718 [  29844]   INFO - .history.utils.LocalHistoryLog - FS has been rebuild, rebuilding local history... 
+2019-09-30 17:09:44,798 [  29924]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2019-09-30 17:09:44,816 [  29942]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63342 
+2019-09-30 17:09:45,214 [  30340]   INFO - il.indexing.FileBasedIndexImpl - File index extensions iterated:340 
+2019-09-30 17:09:45,537 [  30663]   INFO - j.ide.ui.OptionsTopHitProvider - 31 ms spent to cache options in application 
+2019-09-30 17:09:45,577 [  30703]   INFO - tellij.diagnostic.LoadingPhase - Reached FRAME_SHOWN loading phase 
+2019-09-30 17:09:45,738 [  30864]   INFO - ij.psi.stubs.StubUpdatingIndex - Following new file types will be indexed:Groovy,CLASS,XML,kotlin_builtins,Markdown,KNM,DGM File Type,KJSM,Properties,JAVA,Kotlin,HTML 
+2019-09-30 17:09:46,032 [  31158]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=13, fontScale=1.0; restored: fontSize=13, fontScale=1.0 
+2019-09-30 17:09:46,498 [  31624]   INFO - pl$FileIndexDataInitialization - Initialization done:1624 
+2019-09-30 17:09:47,605 [  32731]   INFO - exImpl$StubIndexInitialization - Initialization done:1107 
+2019-09-30 17:11:25,934 [ 131060]   INFO - tform.templates.github.ZipUtil - Extract: JavaFxApplication/.idea/ant.xml 
+2019-09-30 17:11:25,944 [ 131070]   INFO - tform.templates.github.ZipUtil - Extract: JavaFxApplication/.idea/artifacts/JavaFxApp.xml 
+2019-09-30 17:11:25,950 [ 131076]   INFO - tform.templates.github.ZipUtil - Extract: JavaFxApplication/.idea/compiler.xml 
+2019-09-30 17:11:25,958 [ 131084]   INFO - tform.templates.github.ZipUtil - Extract: JavaFxApplication/.idea/description.html 
+2019-09-30 17:11:25,965 [ 131091]   INFO - tform.templates.github.ZipUtil - Extract: JavaFxApplication/.idea/encodings.xml 
+2019-09-30 17:11:25,971 [ 131097]   INFO - tform.templates.github.ZipUtil - Extract: JavaFxApplication/.idea/gradle.xml 
+2019-09-30 17:11:25,977 [ 131103]   INFO - tform.templates.github.ZipUtil - Extract: JavaFxApplication/.idea/misc.xml 
+2019-09-30 17:11:25,983 [ 131109]   INFO - tform.templates.github.ZipUtil - Extract: JavaFxApplication/.idea/modules.xml 
+2019-09-30 17:11:25,997 [ 131123]   INFO - tform.templates.github.ZipUtil - Extract: JavaFxApplication/.idea/uiDesigner.xml 
+2019-09-30 17:11:26,004 [ 131130]   INFO - tform.templates.github.ZipUtil - Extract: JavaFxApplication/.idea/vcs.xml 
+2019-09-30 17:11:26,016 [ 131142]   INFO - tform.templates.github.ZipUtil - Extract: JavaFxApplication/.idea/workspace.xml 
+2019-09-30 17:11:26,025 [ 131151]   INFO - tform.templates.github.ZipUtil - Extract: JavaFxApplication/JavaFxApplication.iml 
+2019-09-30 17:11:26,034 [ 131160]   INFO - tform.templates.github.ZipUtil - Extract: JavaFxApplication/src/sample/Controller.java 
+2019-09-30 17:11:26,042 [ 131168]   INFO - tform.templates.github.ZipUtil - Extract: JavaFxApplication/src/sample/Main.java 
+2019-09-30 17:11:26,049 [ 131175]   INFO - tform.templates.github.ZipUtil - Extract: JavaFxApplication/src/sample/sample.fxml 
+2019-09-30 17:11:26,455 [ 131581]   INFO - pl.projectlevelman.NewMappings - VCS Root: [] - [<Project>] 
+2019-09-30 17:11:26,703 [ 131829]   INFO - CompilerWorkspaceConfiguration - Available processors: 4 
+2019-09-30 17:11:27,140 [ 132266]   INFO - rnal.statistic.DeviceIdManager - Generating new Device ID 
+2019-09-30 17:11:27,148 [ 132274]   INFO - eventLog.EventLogConfiguration - Generating salt for the device 
+2019-09-30 17:11:27,161 [ 132287]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2019-09-30 17:11:27,312 [ 132438]   INFO - rojectCodeStyleSettingsManager - Initialized from default code style settings. 
+2019-09-30 17:11:29,789 [ 134915]   WARN - com.intellij.util.xmlb.Binding - no accessors for class org.jetbrains.kotlin.idea.highlighter.KotlinDefaultHighlightingSettingsProvider 
+2019-09-30 17:11:29,827 [ 134953]   INFO - ge.ExternalProjectsDataStorage - Load external projects data in 4 millis (read time: 1) 
+2019-09-30 17:11:29,868 [ 134994]   INFO - j.ide.ui.OptionsTopHitProvider - 1300 ms spent to cache options in project 
+2019-09-30 17:11:30,275 [ 135401]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 2549ms; general responsiveness: ok; EDT responsiveness: 0/3 sluggish, 1/3 very slow 
+2019-09-30 17:11:30,468 [ 135594]   INFO - rationStore.ComponentStoreImpl - Saving Project 'C:\Users\Pablo PC\IdeaProjects\untitled' untitledProjectCodeStyleConfiguration took 12 ms 
+2019-09-30 17:11:30,575 [ 135701]   INFO - tartup.impl.StartupManagerImpl - C:/Users/Pablo PC/IdeaProjects/untitled/.idea case-sensitivity: expected=false actual=false 
+2019-09-30 17:11:30,589 [ 135715]   INFO - pl.projectlevelman.NewMappings - Mapped Roots: 0 
+2019-09-30 17:11:30,638 [ 135764]   INFO - tellij.diagnostic.LoadingPhase - Reached PROJECT_OPENED loading phase 
+2019-09-30 17:11:30,682 [ 135808]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 70ms; general responsiveness: ok; EDT responsiveness: ok 
+2019-09-30 17:11:30,715 [ 135841]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2019-09-30 17:11:30,717 [ 135843]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update canceled 
+2019-09-30 17:11:30,766 [ 135892]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 4584 ms 
+2019-09-30 17:11:30,839 [ 135965]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 0ms; general responsiveness: ok; EDT responsiveness: ok 
+2019-09-30 17:11:33,974 [ 139100]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 3135ms; general responsiveness: ok; EDT responsiveness: ok 
+2019-09-30 17:11:33,979 [ 139105]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 42742 files to update 
+2019-09-30 17:11:51,215 [ 156341]   INFO - ings.impl.UpdateCheckerService - channel: release 
+2019-09-30 17:11:51,442 [ 156568]   INFO - j.ide.plugins.RepositoryHelper - using cached plugin list (updated at 30/09/2019 17:09) 
+2019-09-30 17:11:51,648 [ 156774]   INFO - dea.updater.SdkComponentSource - File C:\Users\Pablo PC\.android\repositories.cfg could not be loaded. 
+2019-09-30 17:11:51,650 [ 156776]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/addons_list-3.xml 
+2019-09-30 17:11:51,929 [ 157055]   INFO - gnostic.MemorySizeConfigurator - Physical memory 16308M, minimum memory size 128M, -Xmx adjusted from 750M to 2038M 
+2019-09-30 17:11:52,391 [ 157517]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/glass/addon2-1.xml 
+2019-09-30 17:11:52,391 [ 157517]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/google_apis/sys-img2-1.xml 
+2019-09-30 17:11:52,393 [ 157519]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/addon2-1.xml 
+2019-09-30 17:11:52,393 [ 157519]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android/sys-img2-1.xml 
+2019-09-30 17:11:52,393 [ 157519]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/google_apis_playstore/sys-img2-1.xml 
+2019-09-30 17:11:52,394 [ 157520]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-wear/sys-img2-1.xml 
+2019-09-30 17:11:52,394 [ 157520]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-wear-cn/sys-img2-1.xml 
+2019-09-30 17:11:52,394 [ 157520]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/extras/intel/addon2-1.xml 
+2019-09-30 17:11:52,395 [ 157521]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/repository2-1.xml 
+2019-09-30 17:11:52,396 [ 157522]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-tv/sys-img2-1.xml 
+2019-09-30 17:11:52,397 [ 157523]   INFO - dea.updater.SdkComponentSource - Downloading https://dl.google.com/android/repository/sys-img/android-automotive/sys-img2-1.xml 
+2019-09-30 17:11:53,514 [ 158640]   INFO - mponents.impl.stores.StoreUtil - saveProjectsAndApp took 719 ms 
+2019-09-30 17:11:55,365 [ 160491]   INFO - .diagnostic.PerformanceWatcher - Unindexed files update took 21386ms; general responsiveness: ok; EDT responsiveness: ok 
+2019-09-30 17:11:55,366 [ 160492]   INFO - tellij.diagnostic.LoadingPhase - Reached INDEXING_FINISHED loading phase 
+2019-09-30 17:11:55,634 [ 160760]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2019-09-30 17:11:55,670 [ 160796]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2019-09-30 17:11:55,761 [ 160887]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 11ms; general responsiveness: ok; EDT responsiveness: ok 
+2019-09-30 17:11:55,815 [ 160941]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 53ms; general responsiveness: ok; EDT responsiveness: ok 
+2019-09-30 17:13:59,852 [ 284978]   INFO - mponents.impl.stores.StoreUtil - saveProjectsAndApp took 140 ms 
+2019-09-30 17:14:12,327 [ 297453]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2019-09-30 17:14:12,362 [ 297488]   INFO - nfig.impl.AntConfigurationImpl - queueInitialization: initialized 
+2019-09-30 17:14:13,096 [ 298222]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: E:/IntelliJ IDEA Community Edition 2019.2.3/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2019-09-30 17:14:13,140 [ 298266]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2019-09-30 17:14:13,140 [ 298266]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2019-09-30 17:14:13,140 [ 298266]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2019-09-30 17:14:15,770 [ 300896]   INFO - pl.ProjectRootManagerComponent - project roots have changed 
+2019-09-30 17:14:15,796 [ 300922]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 3435 ms: 0 min 3sec 
+2019-09-30 17:14:15,800 [ 300926]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 2ms; general responsiveness: ok; EDT responsiveness: ok 
+2019-09-30 17:14:15,840 [ 300966]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2019-09-30 17:14:16,046 [ 301172]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 245ms; general responsiveness: ok; EDT responsiveness: ok 
+2019-09-30 17:14:16,462 [ 301588]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: E:/IntelliJ IDEA Community Edition 2019.2.3/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2019-09-30 17:14:16,654 [ 301780]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2019-09-30 17:14:16,654 [ 301780]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2019-09-30 17:14:16,654 [ 301780]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2019-09-30 17:15:21,431 [ 366557]   INFO - .script.IdeScriptEngineManager - javax.script.ScriptEngineManager initialized in 176 ms 
+2019-09-30 17:16:34,170 [ 439296]   WARN - ConfigurableExtensionPointUtil - ignore deprecated groupId: language for id: preferences.language.Kotlin.scripting 
+2019-09-30 17:17:13,531 [ 478657]   INFO - ij.compiler.impl.CompileDriver - COMPILATION STARTED (BUILD PROCESS) 
+2019-09-30 17:17:13,884 [ 479010]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: E:/IntelliJ IDEA Community Edition 2019.2.3/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2019-09-30 17:17:13,931 [ 479057]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2019-09-30 17:17:13,931 [ 479057]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2019-09-30 17:17:13,931 [ 479057]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2019-09-30 17:17:16,132 [ 481258]   INFO - lij.compiler.impl.CompilerUtil - 	COMPILATION FINISHED (BUILD PROCESS); Errors: 0; warnings: 0 took 2609 ms: 0 min 2sec 
+2019-09-30 17:17:16,140 [ 481266]   INFO - s.CompilerReferenceServiceBase - backward reference index reader is opened 
+2019-09-30 17:17:16,525 [ 481651]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stdout]: Build process started. Classpath: E:/IntelliJ IDEA Community Edition 2019.2.3/plugins/java/lib/jps-launcher.jar;C:/Program Files/Java/jdk1.8.0_221/lib/tools.jar 
+2019-09-30 17:17:16,580 [ 481706]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder". 
+2019-09-30 17:17:16,580 [ 481706]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: Defaulting to no-operation (NOP) logger implementation 
+2019-09-30 17:17:16,580 [ 481706]   INFO - j.compiler.server.BuildManager - BUILDER_PROCESS [stderr]: SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details. 
+2019-09-30 17:25:00,772 [ 945898]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2019-09-30 17:25:00,772 [ 945898]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2019-09-30 17:25:00,773 [ 945899]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2019-09-30 17:25:01,004 [ 946130]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2019-09-30 17:25:01,005 [ 946131]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2019-09-30 17:25:01,034 [ 946160]   INFO - Types.impl.FileTypeManagerImpl - FileTypeManager: 322 auto-detected files
+Elapsed time on auto-detect: 78 ms 
+2019-09-30 17:25:01,042 [ 946168]   INFO - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 
+2019-09-30 17:25:01,043 [ 946169]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2019-09-30 17:25:01,094 [ 946220]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2019-09-30 17:25:01,097 [ 946223]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2019-09-30 17:25:01,100 [ 946226]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
